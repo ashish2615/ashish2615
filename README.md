@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashish2615
 - 👀 I’m an early stage data scientist interested in data science and machine learning (ML) methods.
-- 🌱 I’m currently learning Artifical Intelligence (AI).
 - 💞️ I’m looking to collaborate on ML and Data Science projects.
 - 📫 How to reach me sharma.ashish2615@gmail.com
 
